@@ -8,4 +8,5 @@ main {
     flex-wrap: wrap;
     align-items: center;
     flex-direction: column;
+    background-color: #1e1e2e;
 }
